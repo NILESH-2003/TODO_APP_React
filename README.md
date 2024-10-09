@@ -1,4 +1,4 @@
-# React + Vite
+Built just a basic todo app to implement CRUD Operations on the data and also implemented a basic pagination.
 https://todo-app-react-silk-one.vercel.app/
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
