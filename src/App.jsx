@@ -33,7 +33,7 @@ const App = () => {
     if (!inputValue) return;
   
     // Check for duplicates
-    if (todos.includes(inputValue.trim())) {
+    if (editIndex === null && todos.includes(inputValue.trim())) {
       alert("This todo item already exists!"); 
       return;
     }
